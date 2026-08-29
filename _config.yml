@@ -18,14 +18,14 @@ author: Ole Helmers
 
 navbar-links:
   About Me: "aboutme"
-  # Projects: "projects"
+  Projects: "projects"
 
 ################
 # --- Logo --- #
 ################
 
-avatar: "/assets/img/avatar-icon.png"
-round-avatar: true
+# avatar: "/assets/img/avatar-icon.png"
+# round-avatar: true
 
 #####################################
 # --- Footer social media links --- #
