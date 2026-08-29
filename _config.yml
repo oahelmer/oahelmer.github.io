@@ -55,7 +55,7 @@ excerpt_length: 50
 feed_show_excerpt: true
 feed_show_tags: true
 post_search: true
-edit_page_button: true
+edit_page_button: false
 navbar-var-length: false
 
 ######################################
