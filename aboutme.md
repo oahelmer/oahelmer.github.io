@@ -1,16 +1,38 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Cybernetics & Robotics Student at NTNU
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am currently pursuing a 5-year Master's degree in Cybernetics and Robotics at the Norwegian University of Science and Technology (NTNU) in Trondheim. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My primary technical interests center around state estimation, robotic vision, autonomous navigation, and intelligent control systems. I enjoy exploring how underwater vehicles and autonomous systems sense and navigate complex environments.
 
-What else do you need?
+### Core Interests
+* **Perception & Vision:** Computer and robotic vision, sensor fusion, and underwater imaging.
+* **Navigation & Control:** Robust and safe navigation, SLAM, and nonlinear control systems.
+* **Modeling & Learning:** Dynamic modeling, simulation environments, and reinforcement learning applications.
 
-### My story
+---
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Personal & Exploration Projects
+
+Below are a few side projects focused on robotics, simulation, and control algorithms:
+
+* **[5-Legged Robot Walking Gait](https://github.com/oahelmer/FiveLeggedRobotRLwalk)**  
+  An exploration into locomotion using reinforcement learning to train a 5-legged robot gait.
+
+* **[2D Boat Simulator](https://github.com/oahelmer/2d-boatsim)**  
+  A simulation environment for a 2D vessel controlled via reinforcement learning and Line-of-Sight (LOS) guidance algorithms.
+
+* **[Quadcopter Simulation](https://github.com/oahelmer/Quadcopter-Simulation)**  
+  A quadcopter dynamics simulation using Model Predictive Control (MPC) for trajectory tracking.
+
+---
+
+### Team & Practical Experience
+
+Through my involvement with student organizations and R&D projects, I have worked on:
+* **Perception & SLAM Pipelines:** Building 3D/2D sonar and stereo camera pipelines using ROS 2, OpenCV, and iSAM2 for real-time target tracking and localization.
+* **Simulations:** Testing underwater navigation algorithms within Stonefish simulation environments.
+* **Workshop Engagement:** Serving on the board and IT committee of the Omega Workshop.
