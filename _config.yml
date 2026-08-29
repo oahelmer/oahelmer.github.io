@@ -32,7 +32,7 @@ navbar-links:
 #####################################
 
 social-network-links:
-  email: "oleagaton@gmail.com"
+  # email: "oleagaton@gmail.com"
   github: "oahelmer"
   linkedin: "ole-helmers-12937725b/"
 
