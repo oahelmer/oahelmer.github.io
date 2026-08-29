@@ -35,4 +35,4 @@ Below are a few side projects focused on robotics, simulation, and control algor
 Through my involvement with student organizations and R&D projects, I have worked on:
 * **Perception & SLAM Pipelines:** Building 3D/2D sonar and stereo camera pipelines using ROS 2, OpenCV, and iSAM2 for real-time target tracking and localization.
 * **Simulations:** Testing underwater navigation algorithms within Stonefish simulation environments.
-* **Workshop Engagement:** Serving on the board and IT committee of the Omega Workshop.
+* **Workshop Board member:** Serving on the board and IT committee of the Omega Workshop.
