@@ -18,7 +18,7 @@ author: Ole Helmers
 
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
+  # Projects: "projects"
 
 ################
 # --- Logo --- #
@@ -34,7 +34,7 @@ round-avatar: true
 social-network-links:
   email: "oleagaton@gmail.com"
   github: "oahelmer"
-  linkedin: "https://www.linkedin.com/in/ole-helmers-12937725b/"
+  linkedin: "ole-helmers"
 
 rss-description: Ole Helmers - Personal Website and Projects
 
