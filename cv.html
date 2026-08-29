@@ -1,0 +1,30 @@
+---
+layout: page
+title: Curriculum Vitae
+subtitle: My Professional Experience & Background
+permalink: /cv/
+---
+
+<!-- Action Buttons: Open & Download -->
+<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 30px; flex-wrap: wrap;">
+  <a href="/assets/cv.pdf" target="_blank" style="display: inline-block; padding: 10px 24px; border: 2px solid #555555; background-color: transparent; color: #333333; text-decoration: none; font-size: 15px; font-weight: 500; border-radius: 0; transition: all 0.2s ease;">
+    Open PDF in New Tab &rarr;
+  </a>
+  
+  <a href="/assets/cv.pdf" download="Ole_Helmers_CV.pdf" style="display: inline-block; padding: 10px 24px; border: 2px solid #555555; background-color: #555555; color: #ffffff; text-decoration: none; font-size: 15px; font-weight: 500; border-radius: 0; transition: all 0.2s ease;">
+    Download CV
+  </a>
+</div>
+
+<!-- Embedded PDF Container -->
+<div style="width: 100%; max-width: 900px; margin: 0 auto; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border-radius: 6px; overflow: hidden; border: 1px solid #e0e0e0;">
+  <object data="/assets/cv.pdf" type="application/pdf" width="100%" height="900px">
+    <!-- Fallback message for mobile browsers that do not render inline PDFs -->
+    <div style="text-align: center; padding: 40px 20px; background-color: #fafafa;">
+      <p style="font-size: 1.1em; color: #555;">It appears your browser doesn't support embedded PDFs.</p>
+      <a href="/assets/cv.pdf" target="_blank" style="display: inline-block; padding: 12px 28px; border: 2px solid #555555; background-color: transparent; color: #333333; text-decoration: none; font-size: 16px; font-weight: 500;">
+        Click here to view the PDF file
+      </a>
+    </div>
+  </object>
+</div>
